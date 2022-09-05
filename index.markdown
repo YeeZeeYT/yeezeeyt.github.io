@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: We are ship 30
 ---
+
+![pic6](/assets/pic6.jpg)
